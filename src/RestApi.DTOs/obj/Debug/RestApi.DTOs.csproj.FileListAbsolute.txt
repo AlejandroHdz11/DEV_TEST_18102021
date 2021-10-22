@@ -1,0 +1,9 @@
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\bin\Debug\RestApi.DTOs.dll
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\bin\Debug\RestApi.DTOs.pdb
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\obj\Debug\RestApi.DTOs.csproj.AssemblyReference.cache
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\obj\Debug\RestApi.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\obj\Debug\RestApi.DTOs.csproj.CopyComplete
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\obj\Debug\RestApi.DTOs.dll
+C:\Users\Brian Alejandro\Documents\RestApi\RestApi.DTOs\obj\Debug\RestApi.DTOs.pdb
